@@ -1,0 +1,19 @@
+{
+  "name": "lib",
+  "version": "0.0.1",
+  "description": "demo lib",
+  "main": "index.js",
+  "module": "index.es.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Wilkerson <mwilkerson@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.55.3",
+    "rollup-plugin-commonjs": "^8.3.0"
+  },
+  "dependencies": {
+    "typescript": "^2.7.1"
+  }
+}
